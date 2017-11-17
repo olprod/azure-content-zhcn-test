@@ -78,7 +78,7 @@ AD FS：GMSA 帐户 (aadcsvc$)|域用户|FS 服务登录帐户
 
 **其他资源**
 
-
+测试你懂的 2017/11/17
 
 * [用于密码同步的权限](https://msdn.microsoft.com/library/azure/dn757602.aspx#psynch)
 * [用于 Exchange 混合部署的权限](https://msdn.microsoft.com/library/azure/dn757602.aspx#exchange)
